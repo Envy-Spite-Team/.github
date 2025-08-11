@@ -2,7 +2,7 @@
 <h1 align="center">Envy And Spite</h1>
 
 <figure>
-    <img alt='VobrileBanner' href="VobrileBanner.png">
+    <img alt="VobrileBanner" src="./VobrileBanner.png">
     <figcaption>Image by Vobrile</figcaption>
 </figure>
 Envy & Spite is a project about public level creation for ULTRAKILL. Our goal is to
